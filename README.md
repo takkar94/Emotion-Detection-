@@ -1,5 +1,5 @@
 # Emotion-Detection-
-This is an IPYNB file in which detects an facial expressions of an individual and the accuracy obtained is 66%
+This is an IPYNB file in which detects an facial expressions of an individual and the accuracy obtained was above 60%
 
 The image below is the graph of the no of images in each category in the provided dataset
 ![image](https://user-images.githubusercontent.com/53284449/181933515-b4d380a0-8336-46a3-9565-de277bfadec6.png)
